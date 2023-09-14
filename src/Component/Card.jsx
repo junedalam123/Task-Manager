@@ -31,7 +31,7 @@ const Card = ({
         />
         <label className="ml-2 text-sm text-gray-700">Complete</label>
       </div>
-      <div className="flex">
+      <div className="flex justify-end">
         <button
           className="px-3 py-1 bg-blue-500 text-white rounded hover:bg-blue-600 focus:outline-none mr-2"
           onClick={() => {
